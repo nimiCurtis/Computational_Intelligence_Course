@@ -22,7 +22,7 @@ Content of the course by exercises:
 
 - **Exercise 2** - Genetic algorithms.
 - **Exercise 3** - Swarm Intelligence - PSO (Particles Swarm Optimization).
-- **Exercise 4 - 5** - Fuzzy logic and Fuzzy control inference systems.
+- **Exercise 4 - 5** - Fuzzy logic (given in Hebrew) and Fuzzy control inference systems.
 - **Exercise 6 - 7** - Machine Learning - classification & regression tasks.
 - **Exersice 8 - 11** - Introduction to Deep Learning. 
 
